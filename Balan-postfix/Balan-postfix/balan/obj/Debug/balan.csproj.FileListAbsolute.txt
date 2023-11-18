@@ -1,0 +1,7 @@
+C:\Users\THANTHIEN\Documents\Zalo Received Files\Balan-postfix\Balan-postfix\balan\bin\Debug\balan.exe.config
+C:\Users\THANTHIEN\Documents\Zalo Received Files\Balan-postfix\Balan-postfix\balan\bin\Debug\balan.exe
+C:\Users\THANTHIEN\Documents\Zalo Received Files\Balan-postfix\Balan-postfix\balan\bin\Debug\balan.pdb
+C:\Users\THANTHIEN\Documents\Zalo Received Files\Balan-postfix\Balan-postfix\balan\obj\Debug\balan.csproj.AssemblyReference.cache
+C:\Users\THANTHIEN\Documents\Zalo Received Files\Balan-postfix\Balan-postfix\balan\obj\Debug\balan.csproj.CoreCompileInputs.cache
+C:\Users\THANTHIEN\Documents\Zalo Received Files\Balan-postfix\Balan-postfix\balan\obj\Debug\balan.exe
+C:\Users\THANTHIEN\Documents\Zalo Received Files\Balan-postfix\Balan-postfix\balan\obj\Debug\balan.pdb

@@ -1,0 +1,7 @@
+C:\Users\ADMIN\source\repos\Balan-postfix\Balan-postfix\bin\Debug\Balan-postfix.exe.config
+C:\Users\ADMIN\source\repos\Balan-postfix\Balan-postfix\bin\Debug\Balan-postfix.exe
+C:\Users\ADMIN\source\repos\Balan-postfix\Balan-postfix\bin\Debug\Balan-postfix.pdb
+C:\Users\ADMIN\source\repos\Balan-postfix\Balan-postfix\obj\Debug\Balan-postfix.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Balan-postfix\Balan-postfix\obj\Debug\Balan-postfix.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Balan-postfix\Balan-postfix\obj\Debug\Balan-postfix.exe
+C:\Users\ADMIN\source\repos\Balan-postfix\Balan-postfix\obj\Debug\Balan-postfix.pdb
